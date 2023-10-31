@@ -1,0 +1,12 @@
+[submodule "aws_vpc"]
+	path = aws_vpc
+	url = https://github.com/youhyuni/aws_vpc.git
+[submodule "aws_subnet"]
+	path = aws_subnet
+	url = https://github.com/youhyuni/aws_subnet.git
+[submodule "aws_ec2"]
+	path = aws_ec2
+	url = https://github.com/youhyuni/aws_ec2.git
+[submodule "aws_keypair"]
+	path = aws_keypair
+	url = https://github.com/youhyuni/aws_keypair.git
